@@ -15,11 +15,8 @@ const Dashboard = () => {
         <div
           className='
           bg-white
-
           rounded-[30px]
-
           p-8
-
           shadow-lg
         '
         >
