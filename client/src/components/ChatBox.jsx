@@ -297,13 +297,9 @@ const ChatBox = () => {
                 text-white
               '
               >
-
                 <Send size={22} />
-
               </button>
-
             </div>
-
           </div>
         )
       }
